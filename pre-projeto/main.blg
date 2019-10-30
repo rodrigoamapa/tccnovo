@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+A level-1 auxiliary file: ./01-elementos-pre-textuais/capa.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/folhaRosto.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/folhaAprovacao.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoPt.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoEn.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/sumario.aux
+A level-1 auxiliary file: ./02-elementos-textuais/introducao.aux
+A level-1 auxiliary file: ./03-elementos-pos-textuais/referencias.aux
+Database file #1: ./refbase.bib
+Warning--entry type for "IBGE-internet" isn't style-file defined
+--line 33 of file ./refbase.bib
+Warning--entry type for "Globo-multa-haddad" isn't style-file defined
+--line 108 of file ./refbase.bib
+Warning--entry type for "Folha-multa-haddad" isn't style-file defined
+--line 114 of file ./refbase.bib
+Warning--entry type for "Veja-multa-haddad" isn't style-file defined
+--line 120 of file ./refbase.bib
+Warning--empty booktitle in UFSC-fake-news-perigos
+Warning--can't use both volume and number fields in UFSC-fake-news-perigos
+Warning--empty booktitle in Fake-eleicoes-usa
+Warning--can't use both volume and number fields in Fake-eleicoes-usa
+(There were 8 warnings)

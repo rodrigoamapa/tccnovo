@@ -1,0 +1,109 @@
+% Modelo de trabalho acadêmico (Teses, Dissertações, TCC)
+% Documento principal
+%
+% Universidade Federal do Maranhão - UFMA
+% Autor: Sidney Cerqueira <cerqueirasidney@gmail.com>
+% Modelo modificado do Cefet-MG
+%
+% Informações:
+%   Codificação utilizada: UTF-8
+%   Tamanho da tabulação: 4 (espaços)
+\documentclass[oneside]{abntex2-cefetmg}            % Imprimir apenas frente
+%\documentclass[doubleside]{abntex2-cefetmg}        % Imprimir frente e verso
+
+% Importações de pacotes
+%\usepackage[alf, abnt-emphasize=bf, bibjustif, recuo=0cm, abnt-etal-cite=2, abnt-etal-list=0]{abntex2cite}  % Citações padrão ABNT
+\bibliographystyle{ieeetr}
+%\usepackage{lmodern}
+\usepackage[utf8]{inputenc}                         % Acentuação direta
+\usepackage[T1]{fontenc}                            % Codificação da fonte em 8 bits
+\usepackage{graphicx}                               % Inserir figuras
+\usepackage{amsfonts, amssymb, amsmath}             % Fonte e símbolos matemáticos
+\usepackage{booktabs}                               % Comandos para tabelas
+\usepackage{verbatim}                               % Texto é interpretado como escrito no documento
+\usepackage{multirow, array}                        % Múltiplas linhas e colunas em tabelas
+\usepackage{indentfirst}                            % Indenta o primeiro parágrafo de cada seção.
+\usepackage{microtype}                              % Para melhorias de justificação?
+\usepackage{palatino}                               % Usa a fonte Palatino
+\usepackage[algoruled, portuguese]{algorithm2e}     % Escrever algoritmos
+\usepackage{float}                                  % Utilizado para criação de floats
+%\usepackage[bottom]{footmisc}                      % Mantém as notas de rodapé sempre na mesma posição
+%\usepackage{times}                                 % Usa a fonte Times
+%\usepackage{lmodern}                               % Usa a fonte Latin Modern
+\usepackage{subfig}                                % Posicionamento de figuras
+%\usepackage{scalefnt}                              % Permite redimensionar tamanho da fonte
+%usepackage{color, colortbl}                       % Comandos de cores
+%\usepackage{lscape}                                % Permite páginas em modo "paisagem"
+%\usepackage{ae, aecompl}                           % Fontes de alta qualidade
+%\usepackage{picinpar}                              % Dispor imagens em parágrafos
+\usepackage{latexsym}                              % Símbolos matemáticos
+%\usepackage{upgreek}                               % Fonte letras gregas
+\usepackage[table,xcdraw]{xcolor}
+%\usepackage{subfigure}                              % Pacote para colocar figuras lado a lado
+% Definição de comando para colocar dados alinhados a esquerda em tabelas largas com tamanhos variados
+\newcolumntype{C}[1]{>{\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+% Definição de comando para centralizar dados em tabelas largas
+\newcolumntype{K}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}    % comando para colocar bullet em item dentro de uma tabela
+
+\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}} % Definindo o tamanho de coluna em tabela
+
+% Inclui o preâmbulo do documento
+\include{./01-elementos-pre-textuais/preambulo}
+
+% Define as cores dos links e informações do PDF
+\makeatletter
+\hypersetup{
+    portuguese,
+    colorlinks,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=blue,
+    urlcolor=black,
+    breaklinks=true,
+    pdftitle={\@title},
+    pdfauthor={\@author},
+    pdfsubject={\imprimirpreambulo},
+    pdfkeywords={abnt, latex, abntex, abntex2}
+}
+\makeatother
+
+% Redefinição de labels
+\renewcommand{\algorithmautorefname}{Algoritmo}
+\def\equationautorefname~#1\null{Equa\c c\~ao~(#1)\null}
+
+% Cria o índice remissivo
+\makeindex
+
+% Início do documento
+\begin{document}
+
+    % Retira espaço extra obsoleto entre as frases.
+    \frenchspacing
+
+    % Elementos pré textuais
+    \pretextual
+    \include{./01-elementos-pre-textuais/capa}              % Capa
+    \include{./01-elementos-pre-textuais/folhaRosto}        % Folha de rosto
+    \include{./01-elementos-pre-textuais/folhaAprovacao}    % Folha de aprovação
+	%\include{./01-elementos-pre-textuais/dedicatoria}       % Dedicatória
+	%\include{./01-elementos-pre-textuais/agradecimentos}    % Agradecimentos
+    %\include{./01-elementos-pre-textuais/epigrafe}          % Epígrafe
+    \include{./01-elementos-pre-textuais/resumoPt}          % Resumo na língua vernácula
+    \include{./01-elementos-pre-textuais/resumoEn}          % Resumo em língua estrangeira
+    %\include{./01-elementos-pre-textuais/listaFiguras}      % Lista de figuras
+    %\include{./01-elementos-pre-textuais/listaTabelas}      % Lista de tabelas
+    %\include{./01-elementos-pre-textuais/listaQuadros}      % Lista de quadros
+    %\include{./01-elementos-pre-textuais/listaAlgoritmos}   % Lista de algoritmos
+    %\include{./01-elementos-pre-textuais/listaSiglas}       % thiago - Lista de abreviaturas e siglas
+    %\include{./01-elementos-pre-textuais/listaSimbolos}     % Lista de símbolos
+    \include{./01-elementos-pre-textuais/sumario}           % Sumário
+
+    % Elementos textuais
+    \textual
+   	\include{./02-elementos-textuais/introducao}
+   	%\include{./02-elementos-textuais/teoria}
+    \include{./03-elementos-pos-textuais/referencias}
+    
+
+\end{document}

@@ -1,0 +1,813 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Book{Rafiqul2010,
+  Title                    = {Energy Storage},
+  Author                   = {Rafiqul Islam Sheikh},
+  Editor                   = {Rafiqul Islam Sheikh},
+  Publisher                = {Sciyo},
+  Year                     = {2010},
+
+  Crossref                 = {Rafiqul2010},
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\2014\\Energy storage\\book\\[R._Sheikh]_Energy_Storage(BookZZ.org).pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.25}
+}
+
+@MastersThesis{Abelho2011,
+  Title                    = {Armazenamento de Energia Eléctrica: Cenários para o Sistema Eléctrico Português},
+  Author                   = {Sofia Gazimba Abelho},
+  School                   = {Faculdade de Ciências e Tecnologia - Universidade de Lisboa},
+  Year                     = {2011},
+  Month                    = {Setembro},
+
+  File                     = {Sofia_Abelho_Armazenamento:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\Unknown\\2011\\Abelho\\Sofia Gazimba Abelho Armazenamento de Energia Eléctrica Cenários para o Sistema Eléctrico Português - Abelho - 2011.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.25}
+}
+
+@Article{Akinyele201474,
+  Title                    = {Review of energy storage technologies for sustainable power networks},
+  Author                   = {D.O. Akinyele and R.K. Rayudu},
+  Journal                  = {Sustainable Energy Technologies and Assessments },
+  Year                     = {2014},
+  Number                   = {01},
+  Pages                    = {74 - 91},
+  Volume                   = {8}
+}
+
+@Article{alcantara2011microrredes,
+  Title                    = {Microrredes inteligentes: um novo modelo de neg{\'o}cio para a distribui{\c{c}}{\~a}o de energia el{\'e}trica},
+  Author                   = {Alc{\^a}ntara, M V P},
+  Journal                  = {O Setor El{\'e}trico},
+  Year                     = {2011},
+  Pages                    = {36--45},
+  Volume                   = {71}
+}
+
+@Article{Alimardani2011,
+  Title                    = {Optimization of Fuel Consumption in Micro-Turbines},
+  Author                   = {A. Alimardani and H. Keshtkar and Babak Abdi},
+  Journal                  = {Energy Procedia},
+  Year                     = {2011},
+  Pages                    = {779-788},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.22}
+}
+
+@MastersThesis{andreos2013,
+  Title                    = {Estudo de viabilidade técnico-econômica de pequenas centrais de cogeração a gás natural no setor terciário do estado de São Paulo},
+  Author                   = {Ronaldo Andreos},
+  School                   = {Universidade de São Paulo},
+  Year                     = {2013},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.22}
+}
+
+@Misc{aneel2015,
+  Title                    = {Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional},
+
+  Author                   = {ANEEL},
+  Year                     = {2015},
+
+  Owner                    = {Sidney},
+  Timestamp                = {16.06.2015},
+  Url                      = {www.aneel.gov.br/},
+  Urlaccessdate            = {10 de maio de 2015}
+}
+
+@MastersThesis{Bento2013,
+  Title                    = {Uma metodologia para reconfiguração de redes inteligrntes},
+  Author                   = {Fabio Ricardo Oliveira Bento},
+  School                   = {Universidade Federal do Espírito Santo},
+  Year                     = {2013},
+
+  Address                  = {São Mateus},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.09.02}
+}
+
+@Article{Branicio2001,
+  Title                    = {Introdução à Supercondutividade, suas aplicações e Mini-Revolução provocada pela redescoberta do $MgB_2$: Uma abordagem didática},
+  Author                   = {Paulo S. Branício},
+  Journal                  = {Revista Brasileira de Ensino de Física},
+  Year                     = {2001},
+  Number                   = {4},
+  Volume                   = {23},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.01}
+}
+
+@Article{Buckles2000,
+  Title                    = {Superconducting magnetic energy storage},
+  Author                   = {Buckles, W. and Hassenzahl, W.V.},
+  Journal                  = {Power Engineering Review, IEEE},
+  Year                     = {2000},
+
+  Month                    = {May},
+  Number                   = {5},
+  Pages                    = {16-20},
+  Volume                   = {20},
+
+  Doi                      = {10.1109/39.841345},
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\MATERIAIS SEPARADOS\\SMESS\\Super conducting magnetic energy storage_ Warren Buckles.pdf:PDF},
+  ISSN                     = {0272-1724},
+  Keywords                 = {load (electric);magnetic fields;power supply quality;superconducting magnet energy storage;DC electricity;DC magnetic field source;SMES;cryogenic temperatures;current carrying conductor;diurnal load leveling;energy storage technology;historical development;magnetic field production;power quality;resistive losses;superconducting magnetic energy storage;Conductors;Costs;Cryogenics;Energy storage;Magnetic fields;Power industry;Samarium;Superconducting magnetic energy storage;Superconductivity;Temperature}
+}
+
+@Book{burton2001wind,
+  Title                    = {Wind energy handbook},
+  Author                   = {Burton, Tony and Sharpe, David and Jenkins, Nick and Bossanyi, Ervin},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2001}
+}
+
+@Conference{Carmo2012,
+  Title                    = {Utilização de SMES para estabilazação de geradores marítimos},
+  Author                   = {Marlon Jose do Carmo and Antônio Carlos Ferreira and Rubens de Andrade Junior},
+  Booktitle                = {10th IEEE/IAS International Coference on industry Applications},
+  Year                     = {2012},
+
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\MATERIAIS SEPARADOS\\SMESS\\Utilização de SMES para estabilização de geradores.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.02}
+}
+
+@Conference{cerqueiramicrogrid,
+  Title                    = {MICROGRID ECONOMIC DISPATCH WITH STORAGE SYSTEMS BY PARTICLE SWARM OPTIMIZATION},
+  Author                   = {Cerqueira, Sidney and Saavedra, Osvaldo and Lima, Shigeaki},
+  Booktitle                = {XI Simpósio Brasileiro de Automação Inteligente (SBAI)},
+  Year                     = {2015},
+
+  Address                  = {RN}
+}
+
+@Article{chang2014,
+  Title                    = {A literature Review of Wind Forecasting Methods},
+  Author                   = {Wen-Yeau Chang},
+  Journal                  = {Power and Energy Engineering},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.07.22}
+}
+
+@Article{chitsaz2015short,
+  Title                    = {Short-term electricity load forecasting of buildings in microgrids},
+  Author                   = {Chitsaz, Hamed and Shaker, Hamid and Zareipour, Hamidreza and Wood, David and Amjady, Nima},
+  Journal                  = {Energy and Buildings},
+  Year                     = {2015},
+  Pages                    = {50--60},
+  Volume                   = {99},
+
+  Publisher                = {Elsevier}
+}
+
+@Book{chowdhury2009,
+  Title                    = {Microgrids and active distribution networks},
+  Author                   = {S. Chowdhury and S. P. Chowdhury and P. Crossley},
+  Editor                   = {IET},
+  Publisher                = {IET},
+  Year                     = {2009},
+
+  Address                  = {London},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.15}
+}
+
+@Electronic{cigre,
+  Title                    = {WG C6.22 Microgrids},
+  Author                   = {CIGRE},
+  Url                      = {http://www.cigre.org/},
+  Year                     = {2015},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.04},
+  Urlaccessdate            = {10 de maio de 2015}
+}
+
+@PhdThesis{dill2008,
+  Title                    = {Análise da operação de células combustíveis e microturbinas a gás em sistemas de potência},
+  Author                   = {Gustavo Kaefer Dill},
+  School                   = {PUC-RS},
+  Year                     = {2008},
+
+  Address                  = {Porto Alegre},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.22}
+}
+
+@Misc{DOE,
+  Title                    = {Microgrids definition},
+
+  Author                   = {US DOE},
+  Note                     = {US Departament of Energy},
+  Year                     = {2015},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.04},
+  Url                      = {http://energy.gov/},
+  Urlaccessdate            = {10 de maio de 2015}
+}
+
+@Electronic{EPE2014,
+  Title                    = {Balanço Energético Nacional},
+  Author                   = {EPE},
+  Url                      = {https://ben.epe.gov.br},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.04},
+  Urlaccessdate            = {10 de junho de 2015}
+}
+
+@TechReport{epia2014,
+  Title                    = {Global Market Outlook for photovoltaics 2014-2018},
+  Author                   = {EPIA},
+  Institution              = {EPIA},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.21}
+}
+
+@InCollection{Farret2006,
+  Title                    = {Storage Systems},
+  Author                   = {Felix A. Farret and M. Godoy SimÕes},
+  Booktitle                = {Integration of Alternative Sources of Energy},
+  Publisher                = {John wiley \& Sons},
+  Year                     = {2006},
+
+  Address                  = {New York},
+
+  File                     = {Farret_Storage_Systems:C\:\\users\\sidney\\dropbox\\2014\\energy storage\\STORAGE SYSTEMS.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.26}
+}
+
+@Article{Ferraz2012,
+  Title                    = {Aplicações de armazenadores de energia em sistemas elétricos de potência: A necessidade de inserção em currículos de ensino em enegenharia e estudo de caso para SMES},
+  Author                   = {Ana Luiza Ferreira Ferraz and Marlon Jose do Carmo and Ângelo Rocha Oliveira and Lindolpho de Oliveira Araújo JÚnior},
+  Journal                  = {XI Congresso Brasileiro de Educação em Engenharia},
+  Year                     = {2012},
+
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\MATERIAIS SEPARADOS\\SMESS\\APLICAÇÕES DE ARMAZENADORES DE ENERGIA EM.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.01}
+}
+
+@Article{foley2012current,
+  Title                    = {Current methods and advances in forecasting of wind power generation},
+  Author                   = {Foley, Aoife M and Leahy, Paul G and Marvuglia, Antonino and McKeogh, Eamon J},
+  Journal                  = {Renewable Energy},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {1--8},
+  Volume                   = {37},
+
+  Publisher                = {Elsevier}
+}
+
+@InProceedings{ghai2013dc,
+  Title                    = {DC picogrids: a case for local energy storage for uninterrupted power to DC appliances},
+  Author                   = {Ghai, Sunil Kumar and Charbiwala, Zainul and Mylavarapu, Swarnalatha and Seetharamakrishnan, Deva P and Kunnath, Rajesh},
+  Booktitle                = {Proceedings of the fourth international conference on Future energy systems},
+  Year                     = {2013},
+  Organization             = {ACM},
+  Pages                    = {27--38}
+}
+
+@Misc{GWEC2015,
+  Title                    = {Global Wind Report},
+
+  Author                   = {GWEC},
+  Year                     = {2015},
+
+  Institution              = {Global Wind Energy Council},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.21},
+  Url                      = {https://www.gwec.net},
+  Urlaccessdate            = {10 de maio de 2015}
+}
+
+@Article{hadjipaschalis2009overview,
+  Title                    = {Overview of current and future energy storage technologies for electric power applications},
+  Author                   = {Hadjipaschalis, Ioannis and Poullikkas, Andreas and Efthimiou, Venizelos},
+  Journal                  = {Renewable and sustainable energy reviews},
+  Year                     = {2009},
+  Number                   = {6},
+  Pages                    = {1513--1522},
+  Volume                   = {13},
+
+  Publisher                = {Elsevier}
+}
+
+@InProceedings{hamsic2006stabilising,
+  Title                    = {Stabilising the grid voltage and frequency in isolated power systems using a flywheel energy storage system},
+  Author                   = {Hamsic, N and Schmelter, A and Mohd, A and Ortjohann, E and Schultze, E and Tuckey, A and Zimmermann, J},
+  Booktitle                = {The Great Wall World Renewable Energy Forum},
+  Year                     = {2006},
+  Pages                    = {1--6}
+}
+
+@Book{Nikos2014,
+  Title                    = {Microgrids: Architetures and Control},
+  Author                   = {Nikos Hatziargyriou},
+  Editor                   = {Nikos Hatziargyriou},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2014},
+
+  Address                  = {UK},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.05}
+}
+
+@Article{hill2012battery,
+  Title                    = {Battery energy storage for enabling integration of distributed solar power generation},
+  Author                   = {Hill, Cody and Such, Matthew Clayton and Chen, Dongmei and Gonzalez, Juan and Grady, W Mack and others},
+  Journal                  = {Smart Grid, IEEE Transactions on},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {850--857},
+  Volume                   = {3},
+
+  Publisher                = {IEEE}
+}
+
+@InProceedings{hoke,
+  Title                    = {Look-ahead economic dispatch of microgrids with energy storage, using linear programming},
+  Author                   = {Hoke, A. and Brissette, A. and Chandler, S. and Pratt, A. and Maksimovizc, D.},
+  Booktitle                = {Technologies for Sustainability (SusTech), 2013 1st IEEE Conference on},
+  Year                     = {2013},
+  Month                    = {Aug},
+  Pages                    = {154-161},
+
+  Doi                      = {10.1109/SusTech.2013.6617313},
+  Keywords                 = {distributed power generation;energy storage;linear programming;load forecasting;power generation dispatch;power generation economics;auxiliary variables;demand response resources;economic dispatch;energy storage;grid-tied microgrids;intelligent control;linear programming;load forecasting;nondispatchable resources;renewable resource power profiles;storage conversion losses;Batteries;Economics;Generators;Linear programming;Microgrids;Optimization;Batteries;Distributed power generation;Linear programming;Power generation dispatch;Smart grids}
+}
+
+@Article{Hu2014,
+  Title                    = {Evaluation of Short-Term Load Forecasting Techniques Applied for Smart Micro Grids},
+  Author                   = {Hu, Xiaolei and Ferrera, Enrico and Tomasi, Riccardo and Pastrone, Claudio},
+  Journal                  = {Evaluation},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {1864-1869},
+  Volume                   = {8}
+}
+
+@InCollection{ibrahim2013techno,
+  Title                    = {Techno-Economic Analysis of Diferrent Energy Storage Technologies},
+  Author                   = {Hussein Ibrahim and Adrian Ilinca},
+  Booktitle                = {Energy Storage- Technologies and Applications},
+  Publisher                = {Intechopen},
+  Year                     = {2013},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.25}
+}
+
+@TechReport{IEA2014,
+  Title                    = {Medium-term Renwable Nergy Market Report 2014},
+  Author                   = {IEA},
+  Institution              = {IEA},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.24}
+}
+
+@Article{Ismail2013,
+  Title                    = {Currente utilization of microturbines as a part of a hybrid system in distributed generation technology},
+  Author                   = {M. S. Imail and M. Moghavvemi and T. M. I. Mahila},
+  Journal                  = {Renewable and Sustainable Energy Reviews},
+  Year                     = {2013},
+  Pages                    = {142-152},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.22}
+}
+
+@TechReport{IRENA2015,
+  Title                    = {OFF-GRID RENEWABLE ENERGY SYSTEMS: STATUS AND METHODOLOGICAL ISSUES},
+  Author                   = {IRENA},
+  Institution              = {International Renewable Energy Agency},
+  Year                     = {2015},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.09.14}
+}
+
+@InProceedings{khadilkar2014dc,
+  Title                    = {DC Picogrids as power backups for office buildings},
+  Author                   = {Khadilkar, Harshad and Chandan, Vikas and Kalra, Sandeep and Ghai, Sunil and Charbiwala, Zainul and Ganu, Tanuja and Kunnath, Rajesh and Ming, Lim Chee and Seetharam, Deva P},
+  Booktitle                = {Smart Grid Communications (SmartGridComm), 2014 IEEE International Conference on},
+  Year                     = {2014},
+  Organization             = {IEEE},
+  Pages                    = {157--162}
+}
+
+@Article{khodaei2015provisional,
+  Title                    = {Provisional microgrids},
+  Author                   = {Khodaei, Amin},
+  Journal                  = {Smart Grid, IEEE Transactions on},
+  Year                     = {2015},
+  Number                   = {3},
+  Pages                    = {1107--1115},
+  Volume                   = {6},
+
+  Publisher                = {IEEE}
+}
+
+@Article{amin2014,
+  Title                    = {Resiliency-Oriented Microgrid Optimal Scheduling},
+  Author                   = {Amin Khodaei},
+  Journal                  = {IEEE Transactions on Smart Grid},
+  Year                     = {2014},
+
+  Month                    = {July},
+  Number                   = {4},
+  Pages                    = {1584-1591},
+  Volume                   = {5},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.10.13}
+}
+
+@Article{Kousksou2014,
+  Title                    = {Energy storage: Applications and challenges},
+  Author                   = {T. Kousksou and P. Bruel and A. Jamil and T. El Rahfiki and Y. Zeraouli},
+  Journal                  = {Solar Energy Materials \& Solar Cells},
+  Year                     = {2014},
+
+  File                     = {Energy_Storage_Kuosksou:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\Solar Energy Materials and Solar Cells\\2014\\Kousksou et al\\Energy storage Applications and challenges - Kousksou et al. - 2014.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.25}
+}
+
+@Misc{kyocera2015,
+  Title                    = {Painéis Solares},
+
+  Author                   = {Kyocera},
+  Year                     = {2015},
+
+  Owner                    = {Sidney},
+  Timestamp                = {16.06.2015},
+  Url                      = {http://www.kyocerasolar.com.br/},
+  Urlaccessdate            = {10 de maio de 2015}
+}
+
+@Article{certs2002,
+  Title                    = {Integration of Distributed Energy Resources: The CERTS microgrid concept},
+  Author                   = {Lasseter, Robert and Akhil, Abbas and Marnay, Chris and Stephens, John and Dagle, Jeff and Guttromson, Ross and Meliopoulous, A and Yinger, Robert and Eto, Joe},
+  Journal                  = {White paper for Transmission Reliability Program, Office of Power Technologies, US Department of Energy},
+  Year                     = {2002},
+
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\MENDELEY\\Unknown\\2002\\Consortium for Electric Reliability Technology Solutions White Paper on Integration of Distributed Energy Resources The CERTS MicroGrid.pdf:PDF}
+}
+
+@Article{Lei2009,
+  Title                    = {A review on the forecasting of wind speed and generated power },
+  Author                   = {Ma Lei and Luan Shiyan and Jiang Chuanwen and Liu Hongling and Zhang Yan},
+  Journal                  = {Renewable and Sustainable Energy Reviews },
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {915 - 920},
+  Volume                   = {13},
+
+  ISSN                     = {1364-0321},
+  Keywords                 = {Forecasting}
+}
+
+@Article{Bjor-2007,
+  Title                    = {Flywheel energy and power storage systems},
+  Author                   = {Björn Bolund; Hans Bernhoff; Mats Leijon},
+  Journal                  = {Renewable and Sustainable Energy Reviews},
+  Year                     = {2007},
+  Volume                   = {11},
+
+  Issnp                    = {1364-0321},
+  Issue                    = {2},
+  Page                     = {235--258},
+  Publisher                = {Elsevier Science}
+}
+
+@Book{Luque2011,
+  Title                    = {Handbook of Photovoltaic Science and Engineering},
+  Author                   = {Antonio Luque and Steven Hegedus},
+  Editor                   = {Antonio Luque and Steven Hegedus},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2011},
+  Edition                  = {2nd},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.17}
+}
+
+@Article{abido2014,
+  Title                    = {Modeling and control of microgrid: An overview},
+  Author                   = {M. S. Mahmoud and S. Azher Hussain and M. A. Abido},
+  Journal                  = {Journal of the Franklin Institute},
+  Year                     = {2014},
+  Pages                    = {2822-2859},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.07}
+}
+
+@Article{mandal2012forecasting,
+  Title                    = {Forecasting power output of solar photovoltaic system using wavelet transform and artificial intelligence techniques},
+  Author                   = {Mandal, Paras and Madhira, Surya Teja Swarroop and Meng, Julian and Pineda, Ricardo L and others},
+  Journal                  = {Procedia Computer Science},
+  Year                     = {2012},
+  Pages                    = {332--337},
+  Volume                   = {12},
+
+  Publisher                = {Elsevier}
+}
+
+@Book{manwell2010wind,
+  Title                    = {Wind energy explained: theory, design and application},
+  Author                   = {Manwell, James F and McGowan, Jon G and Rogers, Anthony L},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2010},
+
+  Address                  = {New Jersey}
+}
+
+@Article{Martin2012,
+  Title                    = {Tecnologias de armazenamento de energia para aplicações eléctricas},
+  Author                   = {J. I. San MartÍn and I. Zamora and J. J. San MartÍn and V. Aperribay and P. Eguía},
+  Journal                  = {Revista Eletricidade Moderna},
+  Year                     = {2012},
+
+  Month                    = {Abril},
+  Pages                    = {70-86},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.03}
+}
+
+@PhdThesis{gomes2011,
+  Title                    = {Controle da geração eólica com pequenos geradores síncronos a ímãs permanentes em operação autônoma ou interligados em mini redes.},
+  Author                   = {José Gomes de Matos},
+  School                   = {UFMA},
+  Year                     = {2011},
+
+  Address                  = {São Luís},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.23}
+}
+
+@Article{faisal2010,
+  Title                    = {System modelling and online optimal management of microgrid using mesh adaptive direct search},
+  Author                   = {Faisal A. Mohamed and Heikki N. Koivo},
+  Journal                  = {International Journal of Electrical Power \& Energy Systems},
+  Year                     = {2010},
+  Number                   = {5},
+  Pages                    = {398-407},
+  Volume                   = {32},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.22}
+}
+
+@Article{Moreira2014,
+  Title                    = {Armazenamento de energia em redes inteligentes},
+  Author                   = {Mariana Moreira and Mauro Prates and Henrique Monteiro and eder Kapisch and Leandro Silva and Carlos Martins and Luciana Acácio and Danton Ferreira and Rodolfo Valle and Gabriel Fogli and Pablo Furtado and Paulo F. Ribeiro},
+  Journal                  = {Anais do V Simpósio Brasileiro de Sistemas Elétricos},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.08.10}
+}
+
+@MastersThesis{arto2009,
+  Title                    = {Simulation of the Management of a Micro Grid with Wind, Solar and Gas Generators},
+  Author                   = {Arto Niinistö},
+  School                   = {Aalto University School of Science and Technology},
+  Year                     = {2009},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.08.06}
+}
+
+@InProceedings{nordman2009nanogrids,
+  Title                    = {Nanogrids: Evolving our electricity systems from the bottom up},
+  Author                   = {Nordman, Bruce},
+  Booktitle                = {Darnell Green Power Forum},
+  Year                     = {2009}
+}
+
+@Article{daniel2011,
+  Title                    = {A Centralized Optimal Energy Management System for Microgrids},
+  Author                   = {Daniel E. Olivares and Caludio A. Cañizares and Mehrdad Kazerani},
+  Journal                  = {IEE E PES General Meeting},
+  Year                     = {2011},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.07.01}
+}
+
+@InProceedings{oliveira2015microgrid,
+  Title                    = {Microgrid management in emergency scenarios for smart electrical energy usage},
+  Author                   = {Oliveira, DQ and Zambroni de Souza, AC and Almeida, AB and Santos, MV and Lopes, BIL and Marujo, D},
+  Booktitle                = {PowerTech, 2015 IEEE Eindhoven},
+  Year                     = {2015},
+  Organization             = {IEEE},
+  Pages                    = {1--6},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.10.14}
+}
+
+@Article{palizban2014microgrids,
+  Title                    = {Microgrids in active network management—Part I: Hierarchical control, energy storage, virtual power plants, and market participation},
+  Author                   = {Palizban, Omid and Kauhaniemi, Kimmo and Guerrero, Josep M},
+  Journal                  = {Renewable and Sustainable Energy Reviews},
+  Year                     = {2014},
+  Pages                    = {428--439},
+  Volume                   = {36},
+
+  Publisher                = {Elsevier}
+}
+
+@InProceedings{pena2011review,
+  Title                    = {Review of flywheel based energy storage systems},
+  Author                   = {Pena-Alzola, R and Sebastian, R and Quesada, J and Colmenar, A},
+  Booktitle                = {Power Engineering, Energy and Electrical Drives (POWERENG), 2011 International Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {1--6}
+}
+
+@Manual{manual2014,
+  Title                    = {Manual de Engenharia para SSistema Fotovotaicos},
+
+  Address                  = {Rio de Janeiro},
+  Author                   = {João Tavares Pinho and Marco Antonio Galdino},
+  Edition                  = {2nd},
+  Month                    = {Março},
+  Organization             = {CEPEL-CRESESB},
+  Year                     = {2014},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.19}
+}
+
+@Article{ren2015ensemble,
+  Title                    = {Ensemble methods for wind and solar power forecasting—A state-of-the-art review},
+  Author                   = {Ren, Ye and Suganthan, PN and Srikanth, N},
+  Journal                  = {Renewable and Sustainable Energy Reviews},
+  Year                     = {2015},
+  Pages                    = {82--91},
+  Volume                   = {50},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{Ribeiro2001,
+  Title                    = {Energy Storage Systems for Advanced Power Applications},
+  Author                   = {Paulo F. Ribeiro and Brian K. Johnson and Mariesa L. Crow and Aysen Arsoy and Yilu Liu},
+  Journal                  = {Proceedings of the IEEE},
+  Year                     = {2001},
+
+  Month                    = {Dec},
+  Number                   = {12},
+  Pages                    = {1744-1756},
+  Volume                   = {89},
+
+  File                     = {:C\:\\Users\\Sidney\\Documents\\Mendeley Desktop\\2001\\Energy storage systems for advanced power applications - Ribeiro et al. - Proceedings of the IEEE - 2001.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.04}
+}
+
+@Article{roberts2009capturing,
+  Title                    = {Capturing grid power},
+  Author                   = {Roberts, Bradford},
+  Journal                  = {Power and Energy Magazine, IEEE},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {32--41},
+  Volume                   = {7},
+
+  Publisher                = {IEEE}
+}
+
+@Article{sideratos2007,
+  Title                    = {An Advanced Statistical Method for Wind Power Forecasting},
+  Author                   = {Sideratos, G. and Hatziargyriou, N.D.},
+  Journal                  = {Power Systems, IEEE Transactions on},
+  Year                     = {2007},
+
+  Month                    = {Feb},
+  Number                   = {1},
+  Pages                    = {258-265},
+  Volume                   = {22},
+
+  Doi                      = {10.1109/TPWRS.2006.889078},
+  ISSN                     = {0885-8950},
+  Keywords                 = {artificial intelligence;load forecasting;power engineering computing;power generation planning;self-organizing feature maps;wind power plants;artificial intelligence techniques;meteorological forecasting;operational planning;power measurements;quality estimation;self-organized map;statistical method;wind farm;wind power forecasting;wind speed;Artificial intelligence;Economic forecasting;Meteorology;Power system planning;Statistical analysis;Weather forecasting;Wind energy;Wind farms;Wind forecasting;Wind speed;Fuzzy sets;radial base function networks;self-organized feature maps;wind power forecasting}
+}
+
+@Article{singh2013,
+  Title                    = {Solar power generation by PV (photovoltaic technology: A review},
+  Author                   = {G. K. Singh},
+  Journal                  = {Energy},
+  Year                     = {2013},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.21}
+}
+
+@Conference{Siostrzonek-2008,
+  Title                    = {Energy storage systems the flywheel energy storage},
+  Author                   = {Siostrzonek, Tomasz and Pirog, Stanislaw and Baszynski, Marcin},
+  Booktitle                = {13th International Power Electronics and Motion Control Conference (EPE/PEMC 2008)},
+  Year                     = {2008},
+
+  Address                  = {Poznan, Poland},
+  Organization             = {IEEE},
+  Pages                    = {1779--1783},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.10.30}
+}
+
+@Article{Cheng2009,
+  Title                    = {Superconducting Magnetic Energy Storage Systems for Power System Applications},
+  Author                   = {D. Sutanto and K. W. E. Cheng},
+  Journal                  = {Proceedings of 2009 IEEE International Conference on Applied Superconductivity and Electromagnetic Devices},
+  Year                     = {2009},
+
+  File                     = {:C\:\\Users\\Sidney\\Dropbox\\EXAME DE QUALIFICAÇÃO\\MATERIAIS SEPARADOS\\SMESS\\superconducting magnetic energy storage systems for power system applications.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.04}
+}
+
+@Article{tan2013advances,
+  Title                    = {Advances and trends of energy storage technology in microgrid},
+  Author                   = {Tan, Xingguo and Li, Qingmin and Wang, Hui},
+  Journal                  = {International Journal of Electrical Power \& Energy Systems},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {179--191},
+  Volume                   = {44},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{Antonis2008,
+  Title                    = {Centralized Control for Optimizing Microgrids Operation},
+  Author                   = {Antonis G. Tsikalakis and Nikos Hatziargyriou},
+  Journal                  = {IEEE Transactions on Energy Conversion},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {241-248},
+  Volume                   = {23},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.30}
+}
+
+@Book{Villalva2012,
+  Title                    = {Energia Solar Fotovoltaica: Conceitos e aplicações},
+  Author                   = {Marcelo Gradella Villalva and Jonas Rafael Gazoli},
+  Publisher                = {Editora Érica},
+  Year                     = {2012},
+
+  Owner                    = {Sidney},
+  Timestamp                = {2015.06.16}
+}
+
+@Article{Wang2011,
+  Title                    = {A Review of Wind Power Forecasting Models},
+  Author                   = {Wang, Xiaochen and Guo, Peng and Huang, Xiaobin},
+  Journal                  = {Energy Procedia},
+  Year                     = {2011},
+  Pages                    = {770--778},
+  Volume                   = {12}
+}
+
+@InProceedings{xiao2012,
+  Title                    = {Study on energy storage system investment decision based on real option theory},
+  Author                   = {Xiaoqing Xiu and Bei Li},
+  Booktitle                = {Sustainable Power Generation and Supply (SUPERGEN 2012), International Conference on},
+  Year                     = {2012},
+  Month                    = {Sept},
+  Pages                    = {1-4},
+
+  File                     = {xiao_Study_energy_storage:C\:\\users\\sidney\\dropbox\\2014\\energy storage\\STUDY ON ENERGY STORAGE SYSTEM INVESTMENT Decision based on real option theory.pdf:PDF},
+  Owner                    = {Sidney},
+  Timestamp                = {2015.05.26}
+}
+

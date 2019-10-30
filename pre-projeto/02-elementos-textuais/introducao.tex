@@ -1,0 +1,118 @@
+%
+% Documento: Introdução
+%
+
+\chapter{Introdução} 
+
+Nos últimos anos do séc. XXI, com o advento do uso expressivo de redes sociais\cite{IBGE-internet}, tanto por empresas, órgãos públicos ou mesmo por populares, as notícias e informativos estão presentes continuamente em diversos aparelhos, tornando a comunicação intensiva e dinâmica.
+
+Entretanto, em meio a inúmeros textos, imagens e vídeos que "bombardeiam" o cotidiano das pessoas existem interesses comerciais, ideológicos, religiosos, dentre outros\cite{UFSC-fake-news-perigos} que, passam conteúdos manipulados ou falsos para que sejam consolidados, em que a verdadeira intenção seja o compartilhamento dessas informações para que haja uma grande repercussão.
+
+Uma expressão em inglês que tornou-se bastante debatida nos últimos anos é a "Fake News", que em uma tradução livre, quer dizer Notícias Falsas. Ela ganhou notoriedade após as eleições presidenciais de 2016, nos Estados Unidos da América\cite{Fake-eleicoes-usa}, em que o candidato Donald Trump foi eleito em uma campanha tomada por acusações e ofensas entre os presidenciáveis, mas não pessoalmente e sim através das redes sociais. Ambos evidenciaram o fato de que "bombardeamento" das \textit{Fake News} teriam sido feitas por robôs digitais, os chamados \textit{Bots}. No Brasil, na última eleição presidencial, em 2018, teve-se uma experiência semelhante.
+
+Sobre os robôs digitais, que são desenvolvidos com inteligência artificial e automação, pode-se questionar a complexidade de desenvolvimento de robôs digitais, bem como seus efeitos, sendo que o desafio estaria em identificá-los para conter a propagação de notícias falsas e auxiliar na tomada de decisões e opinião das pessoas que têm acesso às informações digitais.
+
+Em meio a ferramentas criadas para detecção de notícias e conteúdos falsos, o pesquisador Rafael Augusto Monteiro, da Universidade de São Paulo, desenvolveu um protótipo capaz de tomar como entrada um texto e devolver uma resposta se o mesmo é verdadeiro ou falso. Diante disso, o presente trabalho busca analisar a efetividade da pesquisa de Monteiro em um contexto específico de notícias regionais, analisando seu algoritmo.
+
+\chapter {Contexto}
+
+O filósofo Platão\cite{Platao} falava em suas obras que a dúvida era essencial para chegarmos até a verdade. Seguindo o raciocínio, em meio a inúmeras fontes de informação presentes no cotidiano das pessoas é importante reconhecer o que de fato é real ou apenas especulação ou, até mesmo, a mentira, o que pode gerar a desinformação e influenciar na tomada de decisões.
+
+As redes sociais estão cada vez mais presentes entre as fontes de conteúdo provenientes da internet\cite{Livro-Fake-News}. De acordo a pesquisa científica do Instituto Brasileiro de Geografia e Estatística (IBGE)\cite{IBGE-internet}, entre os anos de 2016 e 2017 o percentual de utilização da internet subiu de 69,3\% para 74,9\%, significando 3 em cada 4 domicílios brasileiros que possuem aparelhos conectados à internet, como tablets, celulares, smart TVs. Os usuários desses aparelhos consultam as redes sociais todos os dias para consumir informações de entretenimento e editoriais jornalísticos\cite{Livro-Fake-News}.
+
+\textit{Fake News} é um termo usado para definir notícias
+de conteúdo falso, enganoso, fabricado ou manipulado, cujas
+fontes ou a declaração citada do conteúdo da notícia não pode
+ser constatado como verdadeiro\cite{Uso-abuso-midia-fake-news}.
+
+Uma vez conectadas à internet, as pessoas são expostas à uma série de fontes de informações que podem conter diversos assuntos generalizados ou especializados com um determinado fim, em que existe o agente produtor (origem), os usuários que compartilham (proliferação) e a maneira como são publicadas (tom)\cite{origem-proliferacao-fake}. Geralmente as corporações governamentais, jornalísticas, publicitárias e comerciais se utilizam das redes sociais para apresentar seus conteúdos, entretanto, existe uma parte dessas fontes de informação produzida por pessoas mal intencionadas que podem praticar crimes virtuais, propagar ideologias, distorcer informações e confundir a realidade para quem recebe a informação\cite{Economia-do-fake-news}.
+
+Os pesquisadores Nir Kshetri e Jeffrey Voas\cite{Economia-do-fake-news} afirmam que as notícias falsas produzidas e mantidas de forma profissional têm consequências na economia, política e na sociedade, pois o consumo delas pode gerar um círculo vicioso em que o excesso da mentira torna-se verdade.
+
+No ano de 2019 um ex-candidato à presidência da república no Brasil foi condenado por ter, supostamente, pago à empresas de mídia especializada, para impulsionarem notícias falsas que pudessem prejudicar a campanha de seu adversário, o que pode ser analisado como o poder público tem dado importância nos efeitos que o conteúdo digital pode causar quando manipulado profissionalmente\cite{Folha-multa-haddad,Globo-multa-haddad,Veja-multa-haddad}.
+
+A detecção de \textit{fake news} passa por técnicas computacionais que compreendem redes neurais, classificação de linguagem natural, engenharia reversa, autômatos, IA e diferentes tipos de busca. Os \textit{Bots} da internet são programas que executam tarefas de forma automática. Inicialmente foram criados para facilitar respostas comuns a muitos questionamentos que as empresas recebiam, mas passaram a ser utilizados para criar perfis falsos e disseminar a desinformação nas redes sociais\cite{bots-na-internet}.
+
+Com várias fontes de informação propagadas na internet existem cientistas e  acadêmicos que desenvolvem protótipos de programas para a detecção de notícias falsas, utilizando diversas metodologias para obter um melhor resultado. Questiona-se a eficácia e a confiabilidade que os programas de detecção de "Fake News" conseguem.
+
+
+ 
+\chapter{Problemática}
+
+As corporações donas das redes sociais têm desenvolvido ferramentas e estratégias para detecções de notícias falsas, principalmente com colaboração da comunidade participante da própria rede social. Entretanto, conforme o teor e a forma em que tais notícias são repassadas, questiona-se a efetividade da detecção e neutralização das "Fake News" através dos algoritmos desenvolvidos, como é o caso da ferramenta desenvolvida pela USP, chamada de "FakeCheck".
+
+\chapter{Objetivos}
+
+\section{Objetivo Geral}
+Verificar a eficácia do algoritmo de detecção de notícias falsas \textit{Fake Check}, da USP.
+
+\section {Objetivos Específicos}
+
+O presente trabalho de pesquisa tem os seguintes objetivos específicos:
+
+\begin{itemize}
+	\item Analisar a complexidade do algoritmo usada na ferramenta de detecção de Fake News "FakeCheck" nas modalidades propostas pelos desenvolvedores.
+	\item Testar o algoritmo do software "FakeCheck" na detecção de notícias falsas com um banco de dados proposto.
+	\item Comparar resultados de busca à "fake news" pelo programa "FakeCheck" e criar resultados estatísticos.
+	\item Identificar os métodos de detecção de notícias falsas e compará-los pelos usados no programa "FakeCheck".
+	 
+\end{itemize}
+
+\chapter {Hipótese}
+
+Os algoritmos vêm apresentando uma alta complexidade tanto na criação de robôs virtuais automáticos para propagar notícias falsas quanto na busca e detecção dos mesmos, tornando um processo de conflito pela identificação e neutralização de ações mal-intencionadas.
+
+\chapter {Justificativa}
+
+A busca por atividades virtuais maliciosas é uma prática antiga, desde a existência dos ataques virtuais, seja por meio de vírus, \textit{worms}, \textit{trojans}, \textit{adwares}, dentre outras ferramentas criadas para prejudicar os usuários de aparelhos eletrônicos. Os antivírus foram criados para tal tarefa.
+
+Com o passar dos anos e aumento significativo no acesso à internet, os golpes e os softwares maliciosos foram aperfeiçoados com novos recursos apresentados pela área de Tecnologia da Informação, passando a conter automação, inteligência artificial e computação em nuvem a fim de atingirem seus objetivos.
+
+Com tantos recursos disponíveis para prejudicar o usuários das tecnologias da informação, tem-se um desafio da comunidade científica em identificar, prevenir e banir todo conteúdo malicioso com ferramentas de contra-ataque e estratégias de divulgação preventivas. Todavia necessita-se estudar e analisar essas ferramentas para avaliar sua eficácia e um melhor acesso a todo conteúdo consumido na internet, sobretudo nas redes sociais.
+
+Se os resultados de uma pesquisa acerca da eficácia na busca por notícias falsas apresentarem resultados tanto positivos ou negativos, esta pesquisa poderá apresentar uma contribuição para as pesquisas tecnológicas.
+
+
+\chapter {Metodologia}
+
+Como o que se pretende fazer seja estudar tanto os softwares que impulsionam as notícias falsas quanto os que combatem-nas, uma metodologia será entrevistar alguns responsáveis pelo projeto que desenvolve sistemas web e de aplicativos.
+
+O tipo de entrevista que se pretende é do tipo subjetiva, em que os questionamentos serão acerca do desenvolvimento dos softwares, bem como sua eficiência.
+
+Uma comparação pode ser feita entre as ferramentas de detecção de \textit{fake news} para analisar os resultados.
+
+
+\chapter{Cronograma}
+
+O presente trabalho é pautado na realização das atividades listadas, como segue:
+
+\begin{enumerate}
+	\item Revisão bibliográfica;
+	\item Investigação dos objetivos;
+	\item Identificação de recursos técnicos;
+	\item Entrega do anteprojeto; 
+	\item Análise do algoritmo.
+	\item Teste do algoritmo com banco de dados próprio.
+	\item Apresentação final do trabalho de pesquisa para a conclusão do curso.
+	
+\end{enumerate}
+
+As atividades acima são efetuadas conforme o cronograma descrito na Tabela \ref*{tab-cronograma}. 
+
+\begin{table}[h!]\begin{center}
+		\caption{Cronograma}\label{tab-cronograma}
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} c c c c c c c c c c c c}
+			\toprule
+			& Etapa & nov. & dez. & jan & fev. & mar\\
+			\midrule
+			& 1 & x & x & x & x & x &\\
+			& 2 & x & x &  &  &  &\\
+			& 3 & x & x & x & x &  &\\
+			& 4 &  &  &  & x & x &\\
+			& 5 &  &  &  &  & x &\\
+			& 6 &  &  & x & x & x &\\
+			& 7 &  &  &  &  &  &  &\\
+			
+			\bottomrule                             
+		\end{tabular*}
+\end{center}\end{table}
